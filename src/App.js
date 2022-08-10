@@ -28,6 +28,9 @@ function App() {
             </div>
           </div>
         </div>
+        <button className="py-3 rounded border border-green-400 text-green-400 border-dashed w-full mt-10">
+          Connect an eNaira Wallet
+        </button>
       </section>
         
     </div>
